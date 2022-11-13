@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../ClassTimeSeries" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../Data_Visulaization" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../Machine learning" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../NaturalLanguageProcessing" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../Tableau" vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+</project>
